@@ -1,8 +1,8 @@
 <Solution>
-  <Project Path="Calculating the volume or area of a parallelepiped/Calculating the volume or area of a parallelepiped.csproj" />
-  <Project Path="Calculating the volume or area of a pyramid/Calculating the volume or area of a pyramid.csproj" />
-  <Project Path="Calculating volume or area of a sphere/Calculating volume or area of a sphere.csproj" />
-  <Project Path="ChineseZodiacAnimal/ChineseZodiacAnimal.csproj" />
-  <Project Path="DiscountCounter/DiscountCounter.csproj" />
-  <Project Path="TrafficRulesViolation/TrafficRulesViolation.csproj" />
+  <Project Path="Calculating the volume or area of a parallelepiped/05-Calculating the volume or area of a parallelepiped.csproj" />
+  <Project Path="Calculating the volume or area of a pyramid/06-Calculating the volume or area of a pyramid.csproj" />
+  <Project Path="Calculating volume or area of a sphere/04-Calculating volume or area of a sphere.csproj" />
+  <Project Path="ChineseZodiacAnimal/01-ChineseZodiacAnimal.csproj" />
+  <Project Path="DiscountCounter/03-DiscountCounter.csproj" />
+  <Project Path="TrafficRulesViolation/02-TrafficRulesViolation.csproj" />
 </Solution>
