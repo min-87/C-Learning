@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Calculating the volume or area of a parallelepiped/Calculating the volume or area of a parallelepiped.csproj" />
+  <Project Path="Calculating the volume or area of a pyramid/Calculating the volume or area of a pyramid.csproj" />
+  <Project Path="Calculating volume or area of a sphere/Calculating volume or area of a sphere.csproj" />
+  <Project Path="ChineseZodiacAnimal/ChineseZodiacAnimal.csproj" />
+  <Project Path="DiscountCounter/DiscountCounter.csproj" />
+  <Project Path="TrafficRulesViolation/TrafficRulesViolation.csproj" />
+</Solution>
