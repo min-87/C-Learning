@@ -4,5 +4,6 @@
   <Project Path="Calculating volume or area of a sphere/04-Calculating volume or area of a sphere.csproj" />
   <Project Path="ChineseZodiacAnimal/01-ChineseZodiacAnimal.csproj" />
   <Project Path="DiscountCounter/03-DiscountCounter.csproj" />
+  <Project Path="PayrollSystem/PayrollSystem.csproj" Id="71e6e29a-24c5-4801-8a73-67bb2a4be40e" />
   <Project Path="TrafficRulesViolation/02-TrafficRulesViolation.csproj" />
 </Solution>
